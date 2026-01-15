@@ -455,16 +455,4 @@ npm run dev        # Watch mode
 npm run typecheck  # TypeScript checks
 ```
 
----
 
-## License
-
-MIT — see [LICENSE](./LICENSE)
-
----
-
-<p align="center">
-  <a href="https://x402.dexter.cash">Dexter Facilitator</a> · 
-  <a href="https://dexter.cash/sdk">Live Demo</a> · 
-  <a href="https://dexter.cash/onboard">Become a Seller</a>
-</p>
